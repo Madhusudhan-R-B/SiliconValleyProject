@@ -1,0 +1,72 @@
+#title-div{
+    font-family: 'Comfortaa', cursive;
+    border:5px gold solid;
+    background-color:bisque;
+}
+
+#title-notes{
+    background-image: url("Agri-title.jpeg");
+    background-repeat: none;
+    background-size:cover;
+    color:yellow;
+    border-radius: 25px;
+    width:95%;
+}
+
+#farming-img{
+    width:100px;
+    height:40px;
+    margin-top:-10px;
+    border-radius:5px;
+}
+
+.links{
+    font-size:20px;
+    font-family:'Comfortaa', cursive;
+}
+
+.links:hover{
+    transition: 0.5s;
+    font-size:25px;
+    background-color: rgb(196, 222, 255);
+    border-radius: 20px;
+}
+
+body{
+    background-color:lightgreen;
+    font-family:'Comfortaa', cursive;
+}
+
+#snap_b{
+    font-size:30px;
+    background-color:burlywood;
+    border-radius:20px;
+}
+
+#check_b{
+    font-size:30px;
+    background-color:blueviolet;
+    border-radius:20px;
+    color:white;
+}
+
+input{
+    font-size:25px;
+    width:65%;
+}
+
+span{
+    height:450px;;
+}
+
+button{
+    background-color:rgb(255, 208, 0);
+    font-size:30px;
+    border-radius:10px;
+}
+
+button:hover{
+    transition: 0.5s;
+    border-radius:50px;
+    font-size:35px;
+}
